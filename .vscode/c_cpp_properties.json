@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jt001/fastlio_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jt001/tracer_ws/devel/include/**",
+        "/home/jt001/tracer_ws/src/amcl_localization/include/**",
+        "/home/jt001/tracer_ws/src/aruco_ros/aruco/include/**",
+        "/home/jt001/tracer_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/jt001/tracer_ws/src/camera_ros/camera_control/include/**",
+        "/home/jt001/tracer_ws/src/dh_gripper/dh_gripper_ros-master/dh_gripper_driver/include/**",
+        "/home/jt001/fastlio_ws/src/FAST_LIO/include/**",
+        "/home/jt001/tracer_ws/src/FAST_LIO_LOCALIZATION/include/**",
+        "/home/jt001/tracer_ws/src/wheelche_imu_ros/fdilink_ahrs/include/**",
+        "/home/jt001/tracer_ws/src/camera_ros/realsense-ros/realsense2_camera/include/**",
+        "/home/jt001/tracer_ws/src/dh_gripper/dh_gripper_ros-master/dh_robotics_ag95_gripper/dh_robotics_ag95_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/jt001/tracer_ws/src/wheelche_imu_ros/serial/include/**",
+        "/home/jt001/tracer_ws/src/tracer/tracer_ros/tracer_base/include/**",
+        "/home/jt001/tracer_ws/src/tracer/tracer_ros/tracer_gazebo_sim/include/**",
+        "/home/jt001/tracer_ws/src/tracer_nav/include/**",
+        "/home/jt001/tracer_ws/src/tracer/ugv_sdk/include/**",
+        "/home/jt001/tracer_ws/src/ur_ros/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/jt001/tracer_ws/src/ur_ros/universal_robot-noetic-devel/ur_kinematics/include/**",
+        "/home/jt001/tracer_ws/src/ur_ros/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
